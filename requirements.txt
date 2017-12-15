@@ -1,0 +1,5 @@
+nltk
+gspread
+oauth2client
+sklearn
+graphviz
